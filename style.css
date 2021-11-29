@@ -1,0 +1,51 @@
+h1{
+  color:#008000; /*green color*/
+  margin-right: 25px
+  margin-left: 25px
+  text-transform: uppercase;
+
+}
+/* change the p into blue */
+p {
+  color:#0000FF
+  font-size: 12px
+
+}
+/*h1,h2{
+  background-color: #C373F5;
+}*/
+
+*{
+  font-family: sans-serif;
+
+}
+h4 {
+  background-color: #FA6B9C;
+  color:#7E5F64;
+  margin: 20px;
+  padding: 16px;
+}
+td > strong{
+  background-color: #FA6B9C;
+  color:#7E5F64;
+}
+
+/* add an Id selector for intro*/
+#intro{
+  border-width:
+  border-style: solid;
+  border-color: black;
+}
+/* add a class selector for spotlight*/
+.spotlight {
+  background-color: #C373F5;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color:green;
+}
+a:hover{
+  background-color: #D66D3C
+}
